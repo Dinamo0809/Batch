@@ -1,0 +1,10 @@
+X=MsgBox("Hubo un error al abrir esta aplicación. ¿Desea reintentarlo?",3+16,"Error")
+X=MsgBox("No se pudo solucionar el error. ¿Desea escanear su ordenador?",3+16,"Escanear")
+X=MsgBox("¡Alerta! Un virus ha sido detectado, ¿Desea eliminarlo?",3+48,"Virus")  
+X=MsgBox("INICIANDO ROBO DE DATOS",0+64,"VIRUS") 
+X=MsgBox("ACCESO AL SISTEMA GARANTIZADO",0+64,"VIRUS")  
+X=MsgBox("ENVIANDO INFORMACIÓN A NOMANLAND",0+64,"VIRUS") 
+X=MsgBox("¡Gracias por su cooperación! ¿Desea detener el envío de datos?",3+64,"VIRUS") 
+X=MsgBox("QUE TONTO/A JAJAJAJJAJAJAJA TE LA CREISTE WE XDXDXDXDXD no hay ningún virus xd",0+32,"LOL") 
+X=MsgBox("¡Nos vemos!",0+32,"Chau!") 
+
